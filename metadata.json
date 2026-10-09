@@ -1,0 +1,6 @@
+{
+  "name": "VitaGauge MK-IV",
+  "description": "Artisan skeuomorphic nutrition & hydration tracker with precision analog telemetry and AI optical plate scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
